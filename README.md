@@ -1,1 +1,1 @@
-# scheduled-method-example
+# scheduled method example
